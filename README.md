@@ -1,0 +1,3 @@
+﻿# Earnova
+
+Personal assistance app
